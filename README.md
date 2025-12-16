@@ -1,16 +1,28 @@
-## Hi there 👋
+ # Kevin Showkat
 
-<!--
-**kevinshowkat/kevinshowkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  West Hollywood, CA. Product.
 
-Here are some ideas to get you started:
+  I build small tools that ship fast and leave receipts: traces, evals, latency, cost.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Projects
+
+  - eval-receipts
+    - LLM eval replays + audit-ready receipts (latency, cost, traces)
+    - Repo: https://github.com/kevinshowkat/eval-receipts
+
+  - spectraxis
+    - Image observability: embeddings -> valence/activation -> impact score + counterfactual ideas
+    - Repo: https://github.com/kevinshowkat/spectraxis
+
+  - superjumbo
+    - Full-stack consumer web game (sports prediction)
+    - Repo: https://github.com/kevinshowkat/superjumbo
+
+  - openllmetry (fork)
+    - OpenTelemetry patterns for LLM telemetry
+    - Repo: https://github.com/kevinshowkat/openllmetry
+
+  ## Links
+
+  - LinkedIn: https://www.linkedin.com/in/kshowkat/
+  - Email: kevinshowkat.professional@gmail.com
