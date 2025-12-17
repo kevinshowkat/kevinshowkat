@@ -1,10 +1,14 @@
- # Kevin Showkat
+# Kevin Showkat
 
   West Hollywood, CA. Product.
 
   I build small tools that ship fast and leave receipts: traces, evals, latency, cost.
 
   ## Projects
+
+  - oscillo-vision-reports
+    - Public snapshots of image-model taste tests (PDF + TEX + previews)
+    - Repo: https://github.com/kevinshowkat/oscillo-vision-reports
 
   - eval-receipts
     - LLM eval replays + audit-ready receipts (latency, cost, traces)
