@@ -2,7 +2,7 @@
 
   I build small tools that ship fast and leave receipts: traces, evals, latency, cost.
 
-  ## Projects
+  ## Personal Projects
 
   - param_forge
     - Receipts for image-gen APIs; quick interactive config
