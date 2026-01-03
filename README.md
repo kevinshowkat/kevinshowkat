@@ -1,7 +1,5 @@
 # Kevin Showkat
 
-  West Hollywood, CA. Product.
-
   I build small tools that ship fast and leave receipts: traces, evals, latency, cost.
 
   ## Projects
