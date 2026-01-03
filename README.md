@@ -1,6 +1,6 @@
 # Kevin Showkat
 
-  I build small tools that ship fast and leave receipts: traces, evals, latency, cost.
+  Experimenting with image-gen models and APIs and building evals and other developer-focused tooling for other indie-hackers :)
 
   ## Personal Projects
 
