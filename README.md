@@ -6,6 +6,10 @@
 
   ## Projects
 
+  - param_forge
+    - Receipts for image-gen APIs; quick interactive config
+    - Repo: https://github.com/kevinshowkat/param_forge
+
   - oscillo-vision-reports
     - Public snapshots of image-model taste tests (PDF + TEX + previews)
     - Repo: https://github.com/kevinshowkat/oscillo-vision-reports
