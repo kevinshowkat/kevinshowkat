@@ -4,7 +4,7 @@
 
   ## Personal Projects
 
-  - param_forge
+  - PARAM FORGE
     - Receipts for image-gen APIs; quick interactive config
     - Repo: https://github.com/kevinshowkat/param_forge
     - Demo: ![Param Forge demo](assets/param_forge_demo.gif)
