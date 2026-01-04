@@ -11,15 +11,15 @@ Portfolio of experimental image-generation tooling, model comparison reports, an
   - Demo: ![Param Forge demo](assets/param_forge_demo_v2.gif)
   - Full video: [Param Forge demo video](https://raw.githubusercontent.com/kevinshowkat/kevinshowkat/main/assets/param_forge_demo_v2.mp4)
 
-- oscillo-vision-reports
+- [oscillo-vision-reports](https://github.com/kevinshowkat/oscillo-vision-reports)
   - Pairwise preference reports for vision models (PDF + LaTeX snapshots)
   - Repo: https://github.com/kevinshowkat/oscillo-vision-reports
 
-- superjumbo
+- [superjumbo](https://github.com/kevinshowkat/superjumbo)
   - Sports prediction / picks web app (React + Django)
   - Repo: https://github.com/kevinshowkat/superjumbo
 
-- openllmetry (fork)
+- [openllmetry](https://github.com/kevinshowkat/openllmetry) (fork)
   - OpenTelemetry instrumentation for LLM providers (Traceloop fork)
   - Repo: https://github.com/kevinshowkat/openllmetry
 
