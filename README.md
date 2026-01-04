@@ -1,27 +1,29 @@
 # Kevin Showkat
 
-  Experimenting with image-gen models and APIs + building evals and more developer-focused tooling :)
+Portfolio of experimental image-generation tooling, model comparison reports, and developer-first observability projects.
 
-  ## Projects
+**Keywords:** image generation, text-to-image, model evals, preference testing, observability, OpenTelemetry, developer tools
 
-  - [PARAM FORGE](https://github.com/kevinshowkat/param_forge)
-    - Poke image-gen APIs & conduct tests to generate receipts that help you reduce cost, improve latency, & increase quality
-    - Demo: ![Param Forge demo](assets/param_forge_demo_v2.gif)
-    - Full video: [Param Forge demo video](https://raw.githubusercontent.com/kevinshowkat/kevinshowkat/main/assets/param_forge_demo_v2.mp4)
+## Projects
 
-  - oscillo-vision-reports
-    - Public snapshots of image-model taste tests (PDF + TEX + previews)
-    - Repo: https://github.com/kevinshowkat/oscillo-vision-reports
+- [PARAM FORGE](https://github.com/kevinshowkat/param_forge)
+  - Terminal UI (TUI) for text-to-image runs with reproducible receipts
+  - Demo: ![Param Forge demo](assets/param_forge_demo_v2.gif)
+  - Full video: [Param Forge demo video](https://raw.githubusercontent.com/kevinshowkat/kevinshowkat/main/assets/param_forge_demo_v2.mp4)
 
-  - superjumbo
-    - Full-stack consumer web game (sports prediction)
-    - Repo: https://github.com/kevinshowkat/superjumbo
+- oscillo-vision-reports
+  - Pairwise preference reports for vision models (PDF + LaTeX snapshots)
+  - Repo: https://github.com/kevinshowkat/oscillo-vision-reports
 
-  - openllmetry (fork)
-    - OpenTelemetry patterns for LLM telemetry
-    - Repo: https://github.com/kevinshowkat/openllmetry
+- superjumbo
+  - Sports prediction / picks web app (React + Django)
+  - Repo: https://github.com/kevinshowkat/superjumbo
 
-  ## Links
+- openllmetry (fork)
+  - OpenTelemetry instrumentation for LLM providers (Traceloop fork)
+  - Repo: https://github.com/kevinshowkat/openllmetry
 
-  - LinkedIn: https://www.linkedin.com/in/kshowkat/
-  - Email: kevinshowkat.professional@gmail.com
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/kshowkat/
+- Email: kevinshowkat.professional@gmail.com
