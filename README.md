@@ -4,11 +4,10 @@
 
   ## Projects
 
-  - PARAM FORGE
-    - Receipts for image-gen APIs; quick interactive config
-    - Repo: https://github.com/kevinshowkat/param_forge
+  - [PARAM FORGE](https://github.com/kevinshowkat/param_forge)
+    - Explore image-gen APIs and conduct round-robin tests to generate optimized receipts to reduce cost and latency and increase quality
     - Demo: ![Param Forge demo](assets/param_forge_demo_v2.gif)
-    - Full video: https://raw.githubusercontent.com/kevinshowkat/kevinshowkat/main/assets/param_forge_demo_v2.mp4
+    - Full video: [Param Forge demo video](https://raw.githubusercontent.com/kevinshowkat/kevinshowkat/main/assets/param_forge_demo_v2.mp4)
 
   - oscillo-vision-reports
     - Public snapshots of image-model taste tests (PDF + TEX + previews)
