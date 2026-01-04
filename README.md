@@ -1,11 +1,11 @@
 # Kevin Showkat
 
-  Experimenting with image-gen models and APIs + building evals and more developer-focused tooling for other indie-hackers :)
+  Experimenting with image-gen models and APIs + building evals and more developer-focused tooling :)
 
   ## Projects
 
   - [PARAM FORGE](https://github.com/kevinshowkat/param_forge)
-    - Explore image-gen APIs and conduct round-robin tests to generate optimized receipts to reduce cost and latency and increase quality
+    - Poke image-gen APIs and conduct tests to generate receipts that help you reduce cost, improve latency, and increase quality
     - Demo: ![Param Forge demo](assets/param_forge_demo_v2.gif)
     - Full video: [Param Forge demo video](https://raw.githubusercontent.com/kevinshowkat/kevinshowkat/main/assets/param_forge_demo_v2.mp4)
 
