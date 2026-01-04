@@ -13,15 +13,12 @@ Portfolio of experimental image-generation tooling, model comparison reports, an
 
 - [oscillo-vision-reports](https://github.com/kevinshowkat/oscillo-vision-reports)
   - Pairwise preference reports for vision models (PDF + LaTeX snapshots)
-  - Repo: https://github.com/kevinshowkat/oscillo-vision-reports
 
 - [superjumbo](https://github.com/kevinshowkat/superjumbo)
   - Sports prediction / picks web app (React + Django)
-  - Repo: https://github.com/kevinshowkat/superjumbo
 
 - [openllmetry](https://github.com/kevinshowkat/openllmetry) (fork)
   - OpenTelemetry instrumentation for LLM providers (Traceloop fork)
-  - Repo: https://github.com/kevinshowkat/openllmetry
 
 ## Links
 
