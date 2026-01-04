@@ -7,7 +7,7 @@
   - PARAM FORGE
     - Receipts for image-gen APIs; quick interactive config
     - Repo: https://github.com/kevinshowkat/param_forge
-    - Demo: ![Param Forge demo](assets/param_forge_demo.gif?v=2)
+    - Demo: ![Param Forge demo](assets/param_forge_demo_v2.gif)
     - Full video: https://raw.githubusercontent.com/kevinshowkat/kevinshowkat/main/assets/param_forge_demo.mp4
 
   - oscillo-vision-reports
