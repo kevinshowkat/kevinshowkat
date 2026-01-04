@@ -1,6 +1,6 @@
 # Kevin Showkat
 
-  Experimenting with image-gen models and APIs and building evals and other developer-focused tooling for other indie-hackers :)
+  Experimenting with image-gen models and APIs + building evals and more developer-focused tooling for other indie-hackers :)
 
   ## Personal Projects
 
