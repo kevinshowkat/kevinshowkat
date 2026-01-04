@@ -2,7 +2,7 @@
 
   Experimenting with image-gen models and APIs + building evals and more developer-focused tooling for other indie-hackers :)
 
-  ## Personal Projects
+  ## Projects
 
   - PARAM FORGE
     - Receipts for image-gen APIs; quick interactive config
