@@ -1,6 +1,5 @@
 # Kevin Showkat
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kevinshowkat.kevinshowkat)
 
 Portfolio of experimental image-generation tooling, model comparison reports, and developer-first observability projects.
 
@@ -27,3 +26,5 @@ Portfolio of experimental image-generation tooling, model comparison reports, an
 
 - LinkedIn: https://www.linkedin.com/in/kshowkat/
 - Email: kevinshowkat.professional@gmail.com
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kevinshowkat.kevinshowkat)
