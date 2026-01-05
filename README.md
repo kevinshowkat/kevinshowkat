@@ -1,5 +1,7 @@
 # Kevin Showkat
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=kevinshowkat.kevinshowkat)
+
 Portfolio of experimental image-generation tooling, model comparison reports, and developer-first observability projects.
 
 **Keywords:** image generation, text-to-image, model evals, preference testing, observability, OpenTelemetry, developer tools
