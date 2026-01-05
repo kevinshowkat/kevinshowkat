@@ -16,6 +16,7 @@ Portfolio of experimental image-generation tooling, model comparison reports, an
 
 - [superjumbo](https://github.com/kevinshowkat/superjumbo)
   - Sports prediction / picks web app (React + Django)
+  - Wager Town on Product Hunt: https://www.producthunt.com/products/wager-town
 
 - [openllmetry](https://github.com/kevinshowkat/openllmetry) (fork)
   - OpenTelemetry instrumentation for LLM providers (Traceloop fork)
