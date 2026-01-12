@@ -25,6 +25,6 @@ Portfolio of experimental image-generation tooling, model comparison reports, an
 ## Links
 
 - LinkedIn: https://www.linkedin.com/in/kshowkat/
-- Email: kevinshowkat.professional@gmail.com
+- Email: showkatkevin@gmail.com
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=kevinshowkat.kevinshowkat)
