@@ -9,11 +9,17 @@ Portfolio of creative image-generation tools, evaluation/reporting workflows, an
 
 - [Brood](https://github.com/kevinshowkat/brood)
   - Desktop creative IDE for image generation (PTY-backed chat + live canvas)
-  - Preview: ![BROOD demo](assets/brood_demo_v4.gif)
+  - Preview:
+    <p align="left">
+      <img src="assets/brood_demo_v4.gif" alt="Brood preview">
+    </p>
 
 - [PARAM FORGE](https://github.com/kevinshowkat/param_forge)
   - Terminal UI (TUI) for text-to-image runs with reproducible receipts
-  - Preview: ![PARAM FORGE demo](assets/param_forge_demo_v2.gif)
+  - Preview:
+    <p align="left">
+      <img src="assets/param_forge_demo_v2.gif" alt="Param Forge preview">
+    </p>
   - Full video: [PARAM FORGE preview video](https://media.githubusercontent.com/media/kevinshowkat/param_forge/main/preview.mov)
 
 - [oscillo-vision-reports](https://github.com/kevinshowkat/oscillo-vision-reports)
