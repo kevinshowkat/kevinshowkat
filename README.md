@@ -1,9 +1,9 @@
 # Kevin Showkat
 
 
-Portfolio of experimental image-generation tooling, model comparison reports, and developer-first observability projects.
+Portfolio of creative image-generation tools, evaluation/reporting workflows, and developer-first observability projects, plus a few product experiments.
 
-**Keywords:** image generation, text-to-image, model evals, preference testing, observability, OpenTelemetry, developer tools
+**Keywords:** creative IDE, image generation, text-to-image, model evals, preference testing, run receipts, observability, OpenTelemetry, developer tools, product experiments
 
 ## Projects
 
