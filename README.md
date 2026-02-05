@@ -9,7 +9,7 @@ Portfolio of experimental image-generation tooling, model comparison reports, an
 
 - [BROOD](https://github.com/kevinshowkat/brood)
   - Desktop creative IDE for image generation (PTY-backed chat + live canvas)
-  - Demo: ![BROOD demo](assets/brood_demo_v3.gif)
+  - Demo: ![BROOD demo](assets/brood_demo_v4.gif)
 
 - [PARAM FORGE](https://github.com/kevinshowkat/param_forge)
   - Terminal UI (TUI) for text-to-image runs with reproducible receipts
