@@ -7,7 +7,7 @@ Portfolio of experimental image-generation tooling, model comparison reports, an
 
 ## Projects
 
-- [BROOD](https://github.com/kevinshowkat/brood)
+- [Brood](https://github.com/kevinshowkat/brood)
   - Desktop creative IDE for image generation (PTY-backed chat + live canvas)
   - Preview: ![BROOD demo](assets/brood_demo_v4.gif)
 
