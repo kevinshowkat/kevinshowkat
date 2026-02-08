@@ -1,9 +1,9 @@
 # Kevin Showkat
 
 
-Portfolio of creative image-generation tools, evaluation/reporting workflows, and developer-first observability projects, plus a few product experiments.
+Portfolio of open-source multimodal developer tools: image-input-first creative IDEs (visual canvases for steering AI edits from reference images), reproducible image generation workflows (run receipts, evals, preference testing), and LLM observability (OpenTelemetry).
 
-**Keywords:** creative IDE, image generation, text-to-image, model evals, preference testing, run receipts, observability, OpenTelemetry, developer tools, product experiments
+**Keywords:** image IDE, image-input-first, visual prompting, reference-image editing, image generation, text-to-image, multimodal dev tools, model routing, model evals, preference testing, run receipts, observability, OpenTelemetry, developer tools
 
 ## Projects
 
@@ -11,7 +11,7 @@ Portfolio of creative image-generation tools, evaluation/reporting workflows, an
   - Desktop creative IDE for image generation (PTY-backed chat + live canvas)
   - Preview:
     <p align="left">
-      <img src="assets/brood_demo_v4.gif" alt="Brood preview">
+      <img src="assets/brood_demo_v5_20260208.gif" alt="Brood preview">
     </p>
 
 - [PARAM FORGE](https://github.com/kevinshowkat/param_forge)
