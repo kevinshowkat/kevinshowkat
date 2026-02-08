@@ -1,7 +1,7 @@
 # Kevin Showkat
 
 
-Portfolio of open-source multimodal developer tools: image-input-first creative IDEs (visual canvases for steering AI edits from reference images), reproducible image generation workflows (run receipts, evals, preference testing), and LLM observability (OpenTelemetry).
+Pixels > letters when it comes to LLM input. Portfolio of open-source multimodal developer tools: image-input-first creative IDEs (visual canvases for steering AI edits from reference images), reproducible image generation workflows (run receipts, evals, preference testing), and LLM observability (OpenTelemetry).
 
 **Keywords:** image IDE, image-input-first, visual prompting, reference-image editing, image generation, text-to-image, multimodal dev tools, model routing, model evals, preference testing, run receipts, observability, OpenTelemetry, developer tools
 
