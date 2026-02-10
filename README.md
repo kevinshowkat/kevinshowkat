@@ -11,7 +11,7 @@ Pixels > letters when it comes to LLM input. Portfolio of open-source multimodal
   - Desktop creative IDE for image generation (PTY-backed chat + live canvas)
   - Preview:
     <p align="left">
-      <img src="assets/brood_demo_v5_20260208.gif" alt="Brood preview">
+      <img src="assets/brood_demo_v8_20260210.gif" alt="Brood preview">
     </p>
 
 - [PARAM FORGE](https://github.com/kevinshowkat/param_forge)
