@@ -7,7 +7,9 @@ Public repos with shipped work and artifacts.
 ### [Brood](https://github.com/kevinshowkat/brood)
 Promptless, reference-first AI image editor for developers.
 
-![Brood demo](assets/brood_demo_v8_20260210.gif)
+<p align="left">
+  <img src="assets/brood_demo_v8_20260210.gif" alt="Brood demo" width="480" />
+</p>
 
 - [param_forge](https://github.com/kevinshowkat/param_forge) - Terminal UI for cross-provider image model experiments.
 - [oscillo-vision-reports](https://github.com/kevinshowkat/oscillo-vision-reports) - Public image-model comparison reports.
