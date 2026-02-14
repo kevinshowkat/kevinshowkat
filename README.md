@@ -8,7 +8,7 @@ Public repos with shipped work and artifacts.
 Promptless, reference-first AI image editor for developers.
 
 <p align="left">
-  <img src="assets/brood_demo_v8_20260210.gif" alt="Brood demo" width="480" />
+  <img src="assets/brood_demo_cut_20260214.gif" alt="Brood demo" width="480" />
 </p>
 
 - [param_forge](https://github.com/kevinshowkat/param_forge) - Terminal UI for cross-provider image model experiments.
