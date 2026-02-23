@@ -8,7 +8,7 @@ Public repos with shipped creative tooling and artifacts.
 Promptless, reference-first AI image editor for developers.
 
 <p align="left">
-  <img src="assets/brood_demo_cut_20260214.gif" alt="Brood demo" width="480" />
+  <img src="https://raw.githubusercontent.com/kevinshowkat/brood/main/media/features/readme/main_value_prop_v18_labels_20260222.gif" alt="Brood demo" width="480" />
 </p>
 
 ### [room-edit-lab](https://github.com/kevinshowkat/room-edit-lab)
