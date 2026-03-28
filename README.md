@@ -1,34 +1,44 @@
 # Kevin Showkat
 
-Public repos with shipped creative tooling and artifacts.
+Image-first experiments: editors, evals, and receipts.
 
-## Featured Projects
+I build tools for screenshot-native editing, reference-driven workflows, and repeatable visual experimentation.
+
+## Now Building
+
+### [Cue](https://github.com/kevinshowkat/cue)
+Image-first desktop design workstation in progress.
+
+Cue focuses on screenshot-native edits, design review/apply, in-session tool creation, and exportable receipts.
+
+Current public slice:
+- shared canvas with session tabs
+- single-image-first editing loop
+- design review to in-place apply
+- reusable tools and receipt-backed exports
+
+## Shipped Tools
 
 ### [Brood](https://github.com/kevinshowkat/brood)
-Promptless, reference-first AI image editor for developers.
+Shipped predecessor to Cue: reference-first AI image editing desktop for developers.
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/kevinshowkat/brood/main/media/features/readme/main_value_prop_v18_labels_20260222.gif" alt="Brood demo" width="480" />
+  <img src="assets/brood_demo_cut_20260214.gif" alt="Brood workflow demo" width="560" />
 </p>
 
-### [room-edit-lab](https://github.com/kevinshowkat/room-edit-lab)
-Creator-first utilities for room image edits, overlays, and vertical video assembly.
-Used in workflows behind [@dailybiophilia](https://www.instagram.com/dailybiophilia/).
+- [room-edit-lab](https://github.com/kevinshowkat/room-edit-lab) - creator-first room image edits, overlays, and vertical video assembly
+- [param_forge](https://github.com/kevinshowkat/param_forge) - terminal UI for image-model experiments and reproducible receipts
 
-## Other Public Projects
+## Public Evals
 
-- [param_forge](https://github.com/kevinshowkat/param_forge) - Terminal UI for cross-provider image model experiments.
-- [oscillo-vision-reports](https://github.com/kevinshowkat/oscillo-vision-reports) - Public image model comparison reports.
-- [superjumbo](https://github.com/kevinshowkat/superjumbo) - Free-to-play sports prediction game.
+- [oscillo-vision-reports](https://github.com/kevinshowkat/oscillo-vision-reports) - public image-model preference reports and previews
 
-## Receipts
-- Code
-- Commits
-- Releases
-- Docs, tests, and artifacts (where included)
+## Archive / Other
 
-## Contact
+- [superjumbo](https://github.com/kevinshowkat/superjumbo) - sports prediction game
+
+## Elsewhere
+
+- Landing page: https://kevinshowkat.github.io/
 - LinkedIn: https://www.linkedin.com/in/kshowkat/
 - Email: showkatkevin@gmail.com
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=kevinshowkat.kevinshowkat)
