@@ -1,42 +1,41 @@
 # Kevin Showkat
 
-Image-first experiments: editors, evals, and receipts.
-
+Public projects for image editing and visual AI.
 
 ## Now Building
 
 ### [Cue](https://github.com/kevinshowkat/cue)
-Image-first desktop design workstation in progress.
+A desktop app for editing images and trying visual ideas quickly.
 
-Cue focuses on screenshot-native edits, design review/apply, in-session tool creation, and exportable receipts.
+Cue is my current project.
 
 <p align="left">
   <img src="assets/cue_readme_fast.gif" alt="Cue workflow demo" width="560" />
 </p>
 
-Current public slice:
-- shared canvas with session tabs
-- single-image-first editing loop
-- design review to in-place apply
-- reusable tools and receipt-backed exports
+What it does now:
+- open images in one workspace
+- mark up what should change
+- review and apply edits
+- save exports and results
 
-## Shipped Tools
+## Tools
 
 ### [Brood](https://github.com/kevinshowkat/brood)
-Shipped predecessor to Cue: reference-first AI image editing desktop for developers.
+An earlier desktop image editor that led to Cue.
 
-- [room-edit-lab](https://github.com/kevinshowkat/room-edit-lab) - creator-first room image edits, overlays, and vertical video assembly
-- [param_forge](https://github.com/kevinshowkat/param_forge) - terminal UI for image-model experiments and reproducible receipts
+- [room-edit-lab](https://github.com/kevinshowkat/room-edit-lab) - tools for room photo edits, overlays, and vertical video
+- [param_forge](https://github.com/kevinshowkat/param_forge) - terminal app for testing image models and saving outputs
 
-## Public Evals
+## Reports
 
-- [oscillo-vision-reports](https://github.com/kevinshowkat/oscillo-vision-reports) - public image-model preference reports and previews
+- [oscillo-vision-reports](https://github.com/kevinshowkat/oscillo-vision-reports) - public comparisons of image models
 
-## Archive / Other
+## Other
 
 - [superjumbo](https://github.com/kevinshowkat/superjumbo) - sports prediction game
 
-## Elsewhere
+## Links
 
 - Landing page: https://kevinshowkat.github.io/
 - LinkedIn: https://www.linkedin.com/in/kshowkat/
