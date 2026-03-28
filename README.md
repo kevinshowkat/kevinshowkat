@@ -2,7 +2,6 @@
 
 Image-first experiments: editors, evals, and receipts.
 
-I build tools for screenshot-native editing, reference-driven workflows, and repeatable visual experimentation.
 
 ## Now Building
 
