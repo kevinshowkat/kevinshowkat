@@ -11,6 +11,10 @@ Image-first desktop design workstation in progress.
 
 Cue focuses on screenshot-native edits, design review/apply, in-session tool creation, and exportable receipts.
 
+<p align="left">
+  <img src="assets/cue_readme_fast.gif" alt="Cue workflow demo" width="560" />
+</p>
+
 Current public slice:
 - shared canvas with session tabs
 - single-image-first editing loop
