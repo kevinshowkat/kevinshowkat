@@ -26,10 +26,6 @@ Current public slice:
 ### [Brood](https://github.com/kevinshowkat/brood)
 Shipped predecessor to Cue: reference-first AI image editing desktop for developers.
 
-<p align="left">
-  <img src="assets/brood_demo_cut_20260214.gif" alt="Brood workflow demo" width="560" />
-</p>
-
 - [room-edit-lab](https://github.com/kevinshowkat/room-edit-lab) - creator-first room image edits, overlays, and vertical video assembly
 - [param_forge](https://github.com/kevinshowkat/param_forge) - terminal UI for image-model experiments and reproducible receipts
 
