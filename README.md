@@ -37,6 +37,6 @@ An earlier desktop image editor that led to Cue.
 
 ## Links
 
-- Landing page: https://kevinshowkat.github.io/
-- LinkedIn: https://www.linkedin.com/in/kshowkat/
-- Email: showkatkevin@gmail.com
+- Landing page: [kevinshowkat.github.io](https://kevinshowkat.github.io/)
+- LinkedIn: [linkedin.com/in/kshowkat](https://www.linkedin.com/in/kshowkat/)
+- Email: [showkatkevin@gmail.com](mailto:showkatkevin@gmail.com)
