@@ -1,6 +1,6 @@
 # Kevin Showkat
 
-I build and ship software end to end — iOS, backend, infrastructure, release — with AI coding agents doing most of the typing.
+I build and ship software end to end — iOS, backend, infrastructure, release. Modern toolbox, old-fashioned accountability: everything specced, reviewed, and verified before it ships.
 
 ## Now shipping
 
