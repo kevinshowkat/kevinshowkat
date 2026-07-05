@@ -6,7 +6,7 @@ I build and ship software end to end — iOS, backend, infrastructure, release. 
 
 ### [Meerkat](https://github.com/kevinshowkat/meerkat-app) — the group chat with a score
 
-An iOS app where friends rate everyday stuff 0 to 10. Two-person passion project; I'm the technical half. SwiftUI at a 120Hz interaction budget, Node/Postgres on AWS, ~125k LOC and 120+ TestFlight builds since March 2026. In App Store review.
+An iOS app where friends rate everyday stuff 0 to 10. Two-person passion project; I'm the technical half. SwiftUI at a 120Hz interaction budget, Node/Postgres on AWS, ~125k LOC and 120+ TestFlight builds since March 2026. Live on the App Store.
 
 The app is closed source. The [devlog](https://github.com/kevinshowkat/meerkat-app) has the stack and engineering notes: [pixel-invisible scroll snapshots](https://github.com/kevinshowkat/meerkat-app/blob/main/notes/shimmer-free-scrolling.md), [read-time privacy enforcement](https://github.com/kevinshowkat/meerkat-app/blob/main/notes/read-time-enforcement.md), [cartoon physics at 120Hz](https://github.com/kevinshowkat/meerkat-app/blob/main/notes/the-coin.md).
 
