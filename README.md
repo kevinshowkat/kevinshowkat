@@ -8,4 +8,4 @@ Builds and ships software end to end — iOS, backend, infrastructure, release. 
 
 Smaller pieces: [brood](https://github.com/kevinshowkat/brood) · [room-edit-lab](https://github.com/kevinshowkat/room-edit-lab) · [param_forge](https://github.com/kevinshowkat/param_forge) · [oscillo-vision-reports](https://github.com/kevinshowkat/oscillo-vision-reports)
 
-[kevinshowkat.github.io](https://kevinshowkat.github.io/) · [LinkedIn](https://www.linkedin.com/in/kshowkat/) · [showkatkevin@gmail.com](mailto:showkatkevin@gmail.com)
+[kevinshowkat.github.io](https://kevinshowkat.github.io/?utm_source=github&utm_medium=profile&utm_campaign=profile_readme) · [LinkedIn](https://www.linkedin.com/in/kshowkat/) · [showkatkevin@gmail.com](mailto:showkatkevin@gmail.com)
