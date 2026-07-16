@@ -3,6 +3,7 @@
 Builds and ships software end to end — iOS, backend, infrastructure, release. Receipts over vibes.
 
 - **[Meerkat](https://github.com/kevinshowkat/meerkat-app)** — the group chat with a score. Live on the App Store.
+- **[Sidebop](https://sidebop.com)** — source-backed things to do soon in LA, with practical details that make going easier. Native iOS app in development.
 - **[Dispatch](https://github.com/kevinshowkat/dispatch-devlog)** — customer-acquisition control plane, built for a client. In production, revenue-generating.
 - **[Cue](https://github.com/kevinshowkat/cue)** — a desktop app for editing images and trying visual ideas quickly.
 
